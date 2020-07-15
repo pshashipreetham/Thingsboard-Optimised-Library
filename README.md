@@ -2,7 +2,6 @@
 
 * Arduino Library for ESP32/ESP8266 Modules  
 * Website : https://github.com/psp316r
-* This is a library for the Cloudchip IoT Platform v2
 
 **Note:**
 
